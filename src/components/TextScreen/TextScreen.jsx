@@ -3,7 +3,7 @@ import React from "react";
 const TextScreen = ({ content }) => {
     return (
         <>
-        <p>{content}</p>
+        <p className="prose-text">{content}</p>
         </>
     )
 };

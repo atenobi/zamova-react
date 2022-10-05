@@ -1,0 +1,14 @@
+@use "../../styles/colors";
+@use "../../styles/font-sizes";
+@use "../../styles/line-heights";
+
+.poetic-name {
+    font-size: font-sizes.$subtitle-regular;
+    line-height: line-heights.$subtitle-line-h;
+}
+
+.poetic-text {
+    margin: 0;
+    font-size: font-sizes.$main-text-regular;
+    line-height: line-heights.$main-text-line-h;
+}
