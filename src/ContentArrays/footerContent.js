@@ -84,16 +84,6 @@ export const footerPersons = [
 
 export const footerPartners = [
     {
-        name: "TR Warzshawa",
-        id: 'tr_2022',
-        specialDescription: false,
-        facebook: {
-            svgID: "#tr_svg",
-            link: "https://trwarszawa.pl/en/",
-        },
-    },
-
-    {
         name: "TEAM Theatre",
         id: 'team_2022',
         specialDescription: false,
@@ -105,5 +95,14 @@ export const footerPartners = [
             svgID: "#instagram_svg",
             link: "https://www.instagram.com/timteatr/",
         }
+    },
+    {
+        name: "TR Warzshawa",
+        id: 'tr_2022',
+        specialDescription: "Our partner",
+        facebook: {
+            svgID: "#tr_svg",
+            link: "https://trwarszawa.pl/en/",
+        },
     },
 ]

@@ -6,7 +6,7 @@ import Header from "@/components/Header/Header";
 import ContentTitle from "@/components/ContentTitle/ContentTitle";
 import TextScreen from "@/components/TextScreen/TextScreen";
 import PoeticTextScreen from "@/components/PoeticTextScreen/PoeticTextScreen";
-import Footer from "@/components/Footer";
+import Footer from "@/components/Footer/Footer";
 
 // content
 import { headerContent } from "@/ContentArrays/headerContent";
@@ -69,7 +69,6 @@ function App() {
       
 
       <Footer content={footerPersons} />
-      <h2>OUR PARTNERS</h2>
       <Footer content={footerPartners} />
     </div>
   );
