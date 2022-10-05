@@ -1,0 +1,68 @@
+@use "../../styles/colors";
+@use "../../styles/font-sizes";
+@use "../../styles/line-heights";
+
+.header-container {
+  background-color: colors.$general-black;
+  width: 90%;
+  padding: 20px 20px 30px;
+  margin: 0 auto 0;
+  background-image: url('/src/assets/head_bg_3.jpg');
+  background-attachment: fixed;
+}
+
+.project-name {
+  font-size: font-sizes.$title-regular;
+  line-height: line-heights.$title-line-h;
+//   background-color: colors.$half-visible-black;
+  color: colors.$general-white;
+  margin: 0 auto 20px;
+}
+
+.project-subscription {
+  font-size: font-sizes.$subtitle-regular;
+  line-height: line-heights.$subtitle-line-h;
+//   background-color: colors.$half-visible-black;
+  color: colors.$general-white;
+  width: 70%;
+  margin: 0 auto 35px;
+}
+
+.header-lang-button {
+  width: 70%;
+  outline: none;
+  border-radius: 5px;
+  border: hidden;
+  padding: 10px;
+  cursor: pointer;
+  color: colors.$general-black;
+  background: colors.$general-white;
+  font-size: font-sizes.$subtitle-regular;
+  line-height: line-heights.$subtitle-line-h;
+  font-weight: 800;
+  transition: 400ms;
+  &:hover {
+    color: colors.$general-white;
+    background: colors.$general-black;
+    box-shadow: 0 0 10px colors.$grey-100;
+  }
+  @media only screen and (min-width: 420px) {
+    width: 45%;
+  }
+  @media only screen and (min-width: 768px) {
+    width: 30%;
+  }
+  @media only screen and (min-width: 1200px) {
+    width: 20%;
+  }
+}
+
+// @media only screen and (min-width: 420px) {
+//     font-size: font-sizes.$title-tablet-regular;
+//  }
+//  @media only screen and (min-width: 768px) {
+//     font-size: font-sizes.$title-tablet-regular;
+// }
+// @media only screen and (min-width: 1200px) {
+//     font-size: font-sizes.$title-tablet-regular;
+// }

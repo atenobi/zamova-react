@@ -1,0 +1,8 @@
+@use "../../styles/colors";
+@use "../../styles/font-sizes";
+@use "../../styles/line-heights";
+
+.prose-text {
+    font-size: font-sizes.$main-text-regular;
+    line-height: line-heights.$main-text-line-h;
+}
