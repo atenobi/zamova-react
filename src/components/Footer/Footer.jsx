@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = ({ content }) => {
   return (
-    <div className="footer-container">
+    <div className="section-container footer-container dark-tree-bg">
       {content.map((item) => {
         return (
           <div key={item.id}>

@@ -40,7 +40,7 @@ function App() {
     };
 
   return (
-    <div className="App">
+    <div className="App main-page">
       <Header content={headerContent[lang]} changeLang={changeLang} />
       
       <div className="section-container">

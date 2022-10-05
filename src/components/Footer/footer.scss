@@ -3,12 +3,7 @@
 @use "../../styles/line-heights";
 
 .footer-container {
-    width: 93%;
-    padding: 20px;
-    margin: 0 auto;
     background-color: colors.$blue-dark;
-    background-image: url('/src/assets/head_bg_3.jpg');
-  background-attachment: fixed;
 }
 
 .person-description {
