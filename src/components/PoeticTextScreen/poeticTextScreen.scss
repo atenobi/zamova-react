@@ -5,6 +5,7 @@
 .poetic-name {
     font-size: font-sizes.$subtitle-regular;
     line-height: line-heights.$subtitle-line-h;
+    filter: drop-shadow(0 0 8px colors.$general-white);
 }
 
 .poetic-text {

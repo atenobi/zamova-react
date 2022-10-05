@@ -13,9 +13,13 @@
 #root {
   padding: 0;
   max-width: 1280px;
-  margin: 0 auto;
+  margin: 0;
   text-align: center;
   background-color: colors.$general-black;
+}
+
+.main-page {
+  width: 100vw;
 }
 
 .sprite {
@@ -29,8 +33,15 @@
   padding: 20px 30px;
   background-color: colors.$general-black;
   color: colors.$general-white;
-  margin: 0 auto;
-  width: 88%;
+  margin: 0;
+  width: 90%;
 }
 
+.dark-tree-bg {
+  background-image: url('./assets/head_bg_3.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 
