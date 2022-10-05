@@ -4,7 +4,7 @@
 
 .header-container {
   background-color: colors.$general-black;
-  width: 90%;
+  width: 93%;
   padding: 20px 20px 30px;
   margin: 0 auto 0;
   background-image: url('/src/assets/head_bg_3.jpg');
@@ -14,15 +14,33 @@
 .project-name {
   font-size: font-sizes.$title-regular;
   line-height: line-heights.$title-line-h;
-//   background-color: colors.$half-visible-black;
   color: colors.$general-white;
   margin: 0 auto 20px;
+  animation: titleAnimation 5s infinite alternate;
+  animation-delay: -1s;
+
+  @keyframes titleAnimation {
+      0% {
+        filter: drop-shadow(0 0 8px colors.$primary-dark);
+      }
+      25% {
+        filter: drop-shadow(0 0 12px colors.$primary);
+      }
+      50% {
+        filter: drop-shadow(0 0 15px colors.$primary);
+      }
+      75% {
+        filter: drop-shadow(0 0 12px colors.$primary);
+      }
+      100% {
+        filter: drop-shadow(0 0 8px colors.$primary-dark);
+      }
+    }
 }
 
 .project-subscription {
   font-size: font-sizes.$subtitle-regular;
   line-height: line-heights.$subtitle-line-h;
-//   background-color: colors.$half-visible-black;
   color: colors.$general-white;
   width: 70%;
   margin: 0 auto 35px;

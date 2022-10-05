@@ -1,0 +1,47 @@
+@use "../../styles/colors";
+@use "../../styles/font-sizes";
+@use "../../styles/line-heights";
+
+.footer-container {
+    width: 93%;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: colors.$blue-dark;
+    background-image: url('/src/assets/head_bg_3.jpg');
+  background-attachment: fixed;
+}
+
+.person-description {
+    color: colors.$general-white;
+    font-size: font-sizes.$subtitle-regular;
+    line-height: line-heights.$subtitle-line-h;
+    margin: 30px auto 0;
+}
+
+.person-name {
+    color: colors.$general-white;
+    font-size: font-sizes.$title-section;
+    line-height: line-heights.$title-line-h;
+    margin: 0 auto 15px;
+}
+
+.social-media-container {
+    margin: 0 auto 30px;
+}
+
+.social-media-link {
+    width: 40px;
+    height: 40px;
+    margin: 0 10px;
+}
+
+.social-media-icon {
+    width: 40px;
+    height: 40px;
+    fill: colors.$general-white;
+    cursor: pointer;
+    &:hover {
+        fill: colors.$blue-dark;
+        filter: drop-shadow(0 0 10px colors.$general-white);
+    }
+}

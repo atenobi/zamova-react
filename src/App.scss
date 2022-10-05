@@ -8,6 +8,7 @@
 @import "@/components/ContentTitle/contentTitle.scss";
 @import "@/components/TextScreen/textScreen.scss";
 @import "@/components/PoeticTextScreen/poeticTextScreen.scss";
+@import "@/components/Footer/footer.scss";
 
 #root {
   padding: 0;
@@ -29,6 +30,7 @@
   background-color: colors.$general-black;
   color: colors.$general-white;
   margin: 0 auto;
-  width: 85%;
+  width: 88%;
 }
+
 
