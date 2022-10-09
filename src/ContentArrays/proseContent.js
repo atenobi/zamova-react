@@ -78,38 +78,38 @@ export const proseContent = [
   },
   {
     lang: `PL`,
-    proseText1: `Nie ma drzewa bez korzeni. Ma swoje korzenie w każdy z nas. 
-        I wchodzą w głąb wieków. Jednak nie zawsze jest łatwo je znaleźć, dotrzeć do nich. 
-        Nie w sumie, daleko od wszystkiego, przodkowie w jakiś sposób wyróżniali się, stać się sławnym. 
-        I kim oni są, aby dostać się na strony? w annałach czy w annałach historii? Większość z nich to zwykli, 
-        prości ludzie - polowali na zwierzęta, łowili ryby, obsiewali pole, dbali o nie żywy inwentarz, 
-        wychowane dzieci, jednym słowem, żyły. Mieszkałem spokojnie niepozorny. Tak zginęli. 
-        Co martwiło naszych przodków, o czym myśleli wędrówki, spacery po lesie, praca w remizach strażackich, 
-        polany na bagnach? Albo kiedy w domu, w kurnikach i domach, 
-        siedziałem w długie ciemne jesienne wieczory i noce, zimą mroźne i zimno, 
-        jesienią bezdrożność i wiosenny rozwód? Kiedy jestem w domu, gdzie się urodziłam, 
-        stoję bardzo długo cmentarz - mamy go trochę za wsią, na wzgórzu, porośnięte starymi i młodymi iglakami, 
-        - i patrząc na krzyże, - czarne, zgniłe, a niektóre nawet powalone, omszały, - myślę o tym. 
-        Staram się znaleźć rozwiązanie w tych piosenkach, bajkach, legendach, przysłowia i powiedzenia, 
-        które moi przodkowie odeszli i które słyszałem w dzieciństwo, w którym się wychował, wyrosło, 
-        jak mówią w naszym kraju, na lesie oglądanie...Kogo to obchodzi, on jest właścicielem... 
-        Świat nie jest pozbawiony dobrych ludzi... I będziemy żyć i będziemy bawić się, 
-        a śmierć nadejdzie - umrzemy.`,
-    proseText2: `Słońce wschodzi i zachodzi... Światło - ciemność, dzień - noc... I znowu: 
-        światło - ciemność, dzień - noc... Lecą z ptaki odlatują i odlatują... drzewa zielenieją, 
-        krzaki też żółkną, opadają liście i pozostają jakby nagi... Ziarno wpada do ziemi, kiełkuje, 
-        daje kiełki i nowe ziarno - nowe ziarno... Wiosna, lato, jesień, zima... I znowu: wiosna, lato, jesień, zima... 
-        Jedno pokolenie później pokolenie za pokoleniem... Co ty, ja, on ma na myśli? 
-        ona, my wszyscy w tym nieustannym i wiecznym cyklu? Rodzimy się, żyjemy, umieramy... 
-        Jak się rodziliśmy, żyliśmy wiele, wiele milionów, miliardów zmarło przed nami. 
-        W czym sens ludzkiej egzystencji, życia, narodzin? Za to, co urodziliśmy się i urodziliśmy, 
-        co powinniśmy zrobić, pozostawić potomnym, tym, którzy przyjdą się zmienić, będzie żyć po nas? 
-        Kogo zapytać, kogo, kto powie uczyć?... A może... 
-        nie będę próbował znaleźć odpowiedzi, nie myśleć o czymś, co pomimo całego pragnienia, 
-        wciąż nie jest nauczysz się nie pytać nikogo o nic, ale żyć jak uciekać... 
-        żyć tak, jak żyli nasi rodzice, dziadkowie, pradziadkowie... 
-        A oni... Co o nich wiemy, nasi rodzice, dziadkowie, pradziadkowie, o swoim życiu, 
-        swoich myślach i marzeniach, troska i troska? Cóż, nie o wszystkich, 
-        którzy żyli dawno temu przynajmniej o twojej rodzinie, twoich przodkach?`,
+    proseText1: `Nie ma drzewa bez korzeni. Każdy z nas ma swoje korzenie, które wchodzą w głąb wieków.
+     Prawda, nie zawsze jest łatwo je znaleźć, dotrzeć do nich. Nie wszyscy mają przodków, 
+     którzy wyróżnili się czymś, stali się sławni. Nie wszyscy zapisali się w annałach historii. 
+     W większości byli to zwykli, prości ludzie - polowali na zwierzynę, łowili ryby, obsiewali pole, 
+     doglądali bydła, wychowywali dzieci, jednym słowem żyli. Żyli spokojnie, niezauważeni. I tak umarli.
+     Co niepokoiło naszych przodków, o czym myśleli chodząc po lesie, pracując na leśnych pogorzeliskach, 
+     na polanach, na bagnach? Albo kiedy siedzieli w domu, w chatach, w długie ciemne jesienne wieczory 
+     i noce, w zimowe chłody i mrozy, w jesienne pluchy i wiosenną powódź? Kiedy przyjeżdżam do domu, 
+     w którym się urodziłem, długo stoję na cmentarzu – znajduje się u nas za wsią, 
+     na pagórku porośniętym starymi i młodymi iglakami, i, patrząc na krzyże – czarne, zgniłe, 
+     niektóre powalone, omszałe, myślę wtedy o tym. 
+     I próbuję znaleźć trop w tych pieśniach, bajkach, legendach, przysłowiach i powiedzeniach, 
+     które zostawili po sobie moi przodkowie i które słyszałem w dzieciństwie, na których się wychowałem, 
+     dorastałem, jak się u nas mówi, patrząc na las... Kto pracuje, ten ma wszystko. 
+     Świat nie istnieje bez dobrych ludzi. I będziemy żyć i będziemy spacerować, 
+     i kiedy śmierć nadejdzie, umrzemy...`,
+    proseText2: `Słońce wschodzi i zachodzi... Światło - ciemność, dzień - noc... 
+    I znowu: światło - ciemność, dzień - noc... Ptaki przylatują z południa i odlatują na południe...
+    Zielenieją i żółkną drzewa i krzewy, zrzucają liście, pozostają nagie... Ziarno pada na ziemię, 
+    kiełkuje, wschodzi i daje nowe ziarno, nowe nasiona... Wiosna, lato, jesień, zima... 
+    I znowu: wiosna, lato, jesień, zima... Po jednym pokoleniu ludzi przychodzi następne... 
+    Co znaczymy ty, ja, on, ona, my wszyscy w tym odwiecznym cyklu? Rodzimy się, żyjemy, umieramy... 
+    Tak jak przed nami urodziło się, żyło i umarło wiele milionów. Jaki jest sens ludzkiej egzystencji, 
+    życia, narodzin?
+    Dlaczego urodziliśmy się i rodzimy, co powinniśmy zrobić, 
+    co pozostawić naszym potomkom, tym, którzy przyjdą nas zastąpić i będą żyć po nas? Kogo zapytać, 
+    kto powie, nauczy?... A może... Nie próbować szukać odpowiedzi, nie myśleć o tym, czego, 
+    mimo najszczerszego pragnienia, i tak się nie dowiesz, nie pytać nikogo o nic, ale żyć zwyczajnie... 
+    Żyć tak, jak żyli nasi rodzice , dziadkowie, pradziadkowie ... A oni... Co my o nich wiemy, 
+    o naszych rodzicach, dziadkach, pradziadkach, o ich życiu, ich myślach i marzeniach, 
+    zmartwieniach i trwogach? Nie o wszystkich, którzy żyli, ale przynajmniej o swoim rodzie, 
+    swych przodkach?
+    `,
   },
 ];
