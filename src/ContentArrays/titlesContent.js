@@ -1,5 +1,11 @@
 export const titlesContent = [
     {
+        lang: `PL`,
+        titleText: `Tekst użyty w sztuce`,
+        titleSpell: `Zaklęcie`,
+        titleSongs: `Piosenki`,
+    },
+    {
         lang: `BY`,
         titleText: `Tэкст выкарыстаны у спектаклі`,
         titleSpell: `Замова`,
@@ -10,11 +16,5 @@ export const titlesContent = [
         titleText: `Text used in the play`,
         titleSpell: `Spell`,
         titleSongs: `Songs`,
-    },
-    {
-        lang: `PL`,
-        titleText: `Tekst użyty w sztuce`,
-        titleSpell: `Zaklęcie`,
-        titleSongs: `Piosenki`,
     },
 ]
