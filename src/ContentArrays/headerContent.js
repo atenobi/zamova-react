@@ -1,8 +1,8 @@
 export const headerContent = [
     {
         language: "PL > BY",
-        projectName: 'Z@.mova',
-        projectDescription: `"Zamova" to starożytny gatunek poezji ludowej,
+        projectName: 'Z@klęcie',
+        projectDescription: `"Zamova" (zaklęcie) to starożytny gatunek poezji ludowej,
         formuła słowna, której nadano magiczne znaczenie.`,
     },
     {
@@ -14,7 +14,7 @@ export const headerContent = [
     {
         language: "EN > PL",
         projectName: 'Z@.mova',
-        projectDescription: `"Zamova" is an ancient genre of folk poetry, 
+        projectDescription: `"Zamova" (spell) is an ancient genre of folk poetry, 
         a verbal formula that was given a magical meaning.`,
     },
 ]
